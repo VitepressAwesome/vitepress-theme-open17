@@ -1039,11 +1039,17 @@ vitepress-sidebar@^1.22.0:
     gray-matter "^4.0.3"
 
 vitepress-theme-open17@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/vitepress-theme-open17/-/vitepress-theme-open17-1.1.2.tgz#2cbac4a4d2b59c35f99d3c0c527e415612678a16"
-  integrity sha512-u2uBaW1QK7llWjokWFRgJRGivOZRekzfkjSaDt7OTxlvuqnh2ykAeLhnQjxjBN+uArw5r7pvetr455KkOOw6jg==
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/vitepress-theme-open17/-/vitepress-theme-open17-1.4.0.tgz#e4c52f15a5fba35b0e2d40519cfa0c6b8a144d5a"
+  integrity sha512-EngngBhg+3GN/T689ZEe0AkHbKHtxDKrWb9veYSvpTQs5jjZ73PL1cK9Yn/5+E52gX3taoUlk4NY282tPW9j3Q==
   dependencies:
     feed "^4.2.2"
+    vitepress-velonor "^0.1.0"
+
+vitepress-velonor@^0.1.0:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/vitepress-velonor/-/vitepress-velonor-0.1.1.tgz#a03146553265f84d100b4bc032bde5be19068232"
+  integrity sha512-MQCE2DfAuTyNKnDnbtnuHluX0U206iXXwfVLmmHwm9mmRl6xZetHxJckuitEvpVC8L7fDCZjSaZNgD25iOVwzQ==
 
 vitepress@^1.0.1:
   version "1.0.1"
