@@ -23,6 +23,6 @@
     "vitepress blog"
   ],
   "dependencies": {
-    "feed": "^4.2.2"
+    "feed": "^5.0.0"
   }
 }
