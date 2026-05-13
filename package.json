@@ -11,7 +11,7 @@
   "dependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "feed": "^4.2.2",
-    "markdown-it-mathjax3": "^4.3.2",
+    "markdown-it-mathjax3": "^5.0.0",
     "vite": "^5.2.6",
     "vitepress-sidebar": "^1.22.0",
     "vitepress-theme-open17": "^1.1.2",
